@@ -4,8 +4,8 @@ This is a Plagiarism Checker Web app built using Flask based on the Cosine Simil
 Information Retrieval Course
 
 ## Student Details :
-- Prashanth S         1MS18CS096 
-- Rithvik S Shetty    1MS18CS100
+- R. Avinash         
+- R. Navadeep
 
 ## Software Requirements to run the app :
 - Windows or Debian Operating System.
